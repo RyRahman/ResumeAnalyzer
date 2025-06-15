@@ -1,0 +1,6 @@
+﻿gradio
+pdfplumber
+python-docx
+docx2txt
+python-dateutil
+pandas
